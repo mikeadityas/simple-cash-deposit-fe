@@ -1,0 +1,20 @@
+.section--cash-deposit {
+  flex:1 1 45%;
+  margin:1em;
+}
+
+.customer-toggle {
+  display:flex;
+  flex-flow:row wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.customer-toggle__label {
+  margin-right:0.5em;
+  font-size:0.9em;
+}
+
+.customer-toggle__label:last-child {
+  margin-left:0.5em;
+}
